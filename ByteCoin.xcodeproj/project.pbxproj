@@ -15,7 +15,7 @@
 		ADA8AC152329367300626376 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADA8AC132329367300626376 /* LaunchScreen.storyboard */; };
 		ADA8AC202329398300626376 /* CoinManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC1F2329398300626376 /* CoinManager.swift */; };
 		B15A316C2867C567003DB230 /* CoinData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B15A316B2867C567003DB230 /* CoinData.swift */; };
-		B1726E172871093500AB36D3 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1726E162871093500AB36D3 /* Constants.swift */; };
+		B1726E1D287255CF00AB36D3 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1726E1C287255CF00AB36D3 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		ADA8AC162329367300626376 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ADA8AC1F2329398300626376 /* CoinManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinManager.swift; sourceTree = "<group>"; };
 		B15A316B2867C567003DB230 /* CoinData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinData.swift; sourceTree = "<group>"; };
-		B1726E162871093500AB36D3 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		B1726E1C287255CF00AB36D3 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 				ADA8AC112329367300626376 /* Assets.xcassets */,
 				ADA8AC132329367300626376 /* LaunchScreen.storyboard */,
 				ADA8AC162329367300626376 /* Info.plist */,
-				B1726E162871093500AB36D3 /* Constants.swift */,
+				B1726E1C287255CF00AB36D3 /* Constants.swift */,
 			);
 			path = ByteCoin;
 			sourceTree = "<group>";
@@ -176,7 +176,7 @@
 				B15A316C2867C567003DB230 /* CoinData.swift in Sources */,
 				ADA8AC092329367100626376 /* AppDelegate.swift in Sources */,
 				ADA8AC0B2329367100626376 /* SceneDelegate.swift in Sources */,
-				B1726E172871093500AB36D3 /* Constants.swift in Sources */,
+				B1726E1D287255CF00AB36D3 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
